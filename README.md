@@ -1,0 +1,2 @@
+# bestdex
+BestDex for PokemonGo
